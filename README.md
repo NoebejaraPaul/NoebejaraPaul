@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **noebejaraletsoala.99@gmail.com**
 
+
+<h3 align="left">Glad to see you here! 🤩 </h3>
+
+<p>I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to code💻. I'm currently learning DevOps and working on my Development Skills 🤓</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/20815945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20815945" height="30" width="40" /></a>
