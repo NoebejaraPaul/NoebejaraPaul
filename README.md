@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noebejarapaul&show_icons=true&locale=en&layout=compact" alt="noebejarapaul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoebejaraPaul&show_icons=true&theme=radical" alt="noebejarapaul" /></p>/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoebejaraPaul&show_icons=true&theme=radical" alt="noebejarapaul" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noebejarapaul&show_icons=true&locale=en" alt="noebejarapaul" /></p>-->
 
