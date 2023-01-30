@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noebejarapaul" alt="noebejarapaul" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and DSA**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
