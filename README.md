@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Noebejara</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer with a Passion for Data-Driven Insights</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=noebejarapaul&label=Profile%20views&color=0e75b6&style=flat" alt="noebejarapaul" /> </p>
 
@@ -13,12 +13,12 @@
 
 - 📝 I regularly write articles on [https://noebejaraletsoala.hashnode.dev/](https://noebejaraletsoala.hashnode.dev/)
 
-- 📫 How to reach me **noebejaraletsoala.99@gmail.com**
+- 📫 How to reach me **noebejaraletsoala@gmail.com**
 
 
 <h3 align="left">Glad to see you here! 🤩 </h3>
 
-<p>I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to code💻. I'm currently learning DevOps and working on my Development Skills 🤓</p>
+<p>I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to code💻. I'm currently learning Data Analysis and working on my Development Skills 🤓</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
